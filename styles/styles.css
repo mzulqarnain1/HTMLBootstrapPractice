@@ -1,0 +1,92 @@
+
+.well
+{
+	background-color: white;
+}
+.header-bar
+{
+	background-color:#005689;
+}
+
+.container-fluid
+{
+	margin-left : 30px;
+	margin-right: 30px;
+}
+.glyphicon {
+    font-size: 25px;
+}
+
+.headerlink
+{
+	color: white;
+}
+
+.btn-primary
+{
+	background-color:#005689;
+}
+
+.nevbottom
+{
+	background-color: #00456E;
+	color: #00456E;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+.btn-black
+{
+	background-color:#333333;
+}
+body, html { overflow-x: hidden; }
+
+body {
+	background-color: #F5F5F5;
+}
+
+#navbar-blue
+{
+	background-color: #005689;
+	border-style: none;
+}
+
+.dropdown-toggle
+{
+	border-style: none;	
+}
+
+hr
+{
+  background-color: green;
+   height: 1px; border: 0;
+}
+
+a:hover{
+	text-decoration: none;
+	background-color: grey;
+  	padding-bottom: 10px;
+}
+
+#divlink : hover
+{
+	background-color: grey;
+	color: grey;
+}
+
+.divlink : hover
+{
+	background-color: grey;
+	color: grey;
+}
+@media screen and (max-width: 1250px) {
+    .crossword {
+        visibility: hidden;
+    }
+}
+
+.headingsSpotlight {
+
+    font-family: "Guardian Text Egyptian Web",Georgia,serif;
+    -webkit-font-smoothing: antialiased;
+}
